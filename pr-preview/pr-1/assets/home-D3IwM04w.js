@@ -1,0 +1,1 @@
+import{D as e,t}from"./jsx-runtime-Cl2_KgvU.js";import{t as n}from"./welcome-2AJAuekY.js";var r=t();function i({}){return[{title:`New React Router App`},{name:`description`,content:`Welcome to React Router!`}]}var a=e(function(){return(0,r.jsx)(n,{})});export{a as default,i as meta};
