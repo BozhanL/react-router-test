@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/pr-preview/pr-2/_next/static/chunks/0fsi8lw5utejl.js","/pr-preview/pr-2/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black","children":["$","main",null,{"className":"flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start","children":["$","h1",null,{"className":"max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50","children":"To get started, edit the page.tsx file."}]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z34CDYE4BBBKz15QNLCzk"}
+4:null
