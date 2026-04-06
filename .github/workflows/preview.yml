@@ -40,6 +40,8 @@ jobs:
 
       - name: 🏗️ Build
         if: ${{ github.event.action != 'closed' }}
+        env:
+          BASE_URL: "/pr-preview/pr-${{ github.event.number }}/"
         run: npm run build
 
       - name: 📦 Upload preview build to GitHub
