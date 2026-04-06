@@ -1,5 +1,6 @@
 import { reactRouter } from "@react-router/dev/vite";
 import tailwindcss from "@tailwindcss/vite";
+import { env } from "process";
 import { defineConfig } from "vite";
 
 export default defineConfig({
@@ -7,4 +8,5 @@ export default defineConfig({
   resolve: {
     tsconfigPaths: true,
   },
+  base: env.BASE_URL || "/",
 });
